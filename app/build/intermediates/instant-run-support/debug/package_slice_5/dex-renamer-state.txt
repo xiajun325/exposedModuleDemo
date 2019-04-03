@@ -1,0 +1,4 @@
+#Tue Apr 02 20:31:58 CST 2019
+base.0=/Users/jj/work/xposedSimpleDemo/app/build/intermediates/transforms/dexMerger/debug/5
+renamed.0=classes.dex
+file.0=/Users/jj/work/xposedSimpleDemo/app/build/intermediates/transforms/dexMerger/debug/5/classes.dex
